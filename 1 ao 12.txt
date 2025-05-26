@@ -1,0 +1,13 @@
+1.sim.
+2.ela passa pro bloco externo.
+3.lança um erro de propósito.
+4.o throw lança exceções, as exceções que nós pedirmos.
+5.poder pode, mas não será capturada novamente.
+6. a(): linhas 4 e 5.
+b(): linhas 10 e 11.
+7.linhas 5 e 6.
+8.não exatamente, já que o finally não é necessário.
+9.exception e error.
+10.não, Error é o tipo de problema que não é possivel resolver.
+11.está errado, o catch de baixo deveria ser executado antes, por ser especifico, 
+o de cima é um catch geral.
